@@ -1,1 +1,8 @@
-# Motion-Detection-Camera- Motion-Detection-Camera is a Python-based project that uses a webcam to detect motion and trigger an alarm sound automatically.
+Motion Detection Camera – A Python-based application that utilizes a webcam to detect real-time motion and automatically triggers an alarm when movement is detected.
+
+
+
+
+
+
+
