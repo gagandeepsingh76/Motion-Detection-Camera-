@@ -1,8 +1,1 @@
-Motion Detection Camera – A Python-based application that utilizes a webcam to detect real-time motion and automatically triggers an alarm when movement is detected.
-
-
-
-
-
-
-
+Motion Detection Camera – A Python-based surveillance application designed to utilize a webcam for detecting real-time motion within its field of view. The system continuously monitors the video feed using computer vision techniques and automatically identifies any significant movement. Upon detecting motion, it promptly triggers an audible alarm to alert users of potential activity. This application is built using OpenCV for image processing and is capable of running efficiently on standard hardware, making it suitable for home security, office monitoring, and other real-time surveillance scenarios.
